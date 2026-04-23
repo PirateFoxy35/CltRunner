@@ -1,2 +1,0 @@
-
-dinheiro = 2;
