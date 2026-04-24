@@ -5,3 +5,5 @@ layer_vspeed(back, global.backspeed);
 
 #endregion
 
+randomise();
+global.velx = choose(30, 150);

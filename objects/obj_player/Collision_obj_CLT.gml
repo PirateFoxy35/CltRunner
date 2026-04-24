@@ -1,4 +1,6 @@
 
+global.vel = 0;
+
 global.backspeed = 0;
 
 if (x != 16){
